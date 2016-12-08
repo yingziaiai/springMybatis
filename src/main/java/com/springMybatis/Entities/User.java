@@ -1,5 +1,5 @@
 package com.springMybatis.Entities;
-
+//http://jingyan.baidu.com/article/64d05a0262f013de55f73bcc.html
 public class User {
 	private int id;
 	private String name;
